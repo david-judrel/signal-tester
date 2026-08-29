@@ -1,0 +1,6 @@
+{
+  "name": "Signal Test",
+  "description": "Futuristic Dark Tech Network Signal Test & Diagnostic application with real-time RF metrics, speed tests, and cell analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
